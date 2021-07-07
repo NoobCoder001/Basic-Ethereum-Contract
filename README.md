@@ -1,2 +1,2 @@
 # Basic-Ethereum-Contract
-This is the first contract created by me using solidity and web3
+This is the first contract named Inbox created by me using solidity and web3
